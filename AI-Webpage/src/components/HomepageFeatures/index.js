@@ -4,12 +4,25 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Coming Soon',
+    title: 'Backpropagation',
     Svg: require('@site/static/img/ai-1.svg').default,
     description: (
       <>
-        
+         <p><a href="https://arxiv.org/pdf/2301.09977" target="_blank" rel="noopener noreferrer">The Backpropagation algorithm for a math student</a> </p>
+
+
+         <p><a href="https://arxiv.org/pdf/2205.00832" target="_blank" rel="noopener noreferrer">Gradient Descent, Stochastic Optimization, and Other Tales</a> </p>
+
+          <p><a href="https://ems.press/content/book-chapter-files/33333" target="_blank" rel="noopener noreferrer">Stochastic gradient descent: where optimization meets machine learning</a> </p>
+
+
+           <p><a href="https://www.mdpi.com/2227-7390/11/3/682" target="_blank" rel="noopener noreferrer">Recent Advances in Stochastic Gradient Descent in Deep Learning</a> </p>
+
+
+            <p><a href="https://www.pnas.org/doi/10.1073/pnas.2316301121" target="_blank" rel="noopener noreferrer">On the different regimes of stochastic gradient descent</a> </p>
       </>
+
+    
     ),
   },
   {
