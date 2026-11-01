@@ -24,6 +24,8 @@ Books on Deep Learning
 - [Deep Learning: Foundations and Concepts by Christopher M. Bishop (Author), Hugh Bishop (Author)](https://www.amazon.com/Deep-Learning-Foundations-Christopher-Bishop/dp/3031454677/ref=pd_bxgy_d_sccl_1/141-9651413-5495943?pd_rd_w=Xkh2t&content-id=amzn1.sym.53b72ea0-a439-4b9d-9319-7c2ee5c88973&pf_rd_p=53b72ea0-a439-4b9d-9319-7c2ee5c88973&pf_rd_r=662S571KJV56F0RRT9FD&pd_rd_wg=ZdLql&pd_rd_r=ceea82a3-d66e-4fc7-b29b-7e090f5a63d3&pd_rd_i=3031454677&psc=1)
 - [Dive into Deep Learning](https://d2l.ai/) || [Dive into Deep Learning 1st Edition
 by Aston Zhang (Author), Zachary C. Lipton (Author), Mu Li (Author), Alexander J. Smola (Author)](https://www.amazon.com/Dive-into-Learning-Aston-Zhang/dp/1009389432)
+- [Deep Generative Modeling by Jakub M. Tomczak](https://jmtomczak.github.io/dgm_book.html)
+- [Foundations of Computer Vision by Phillip Isola and William T. Freeman (Interested in Chapter 9-14, 24-26, and 32-34)](https://visionbook.mit.edu/)
 
 
 Books on NLP and LLMs
@@ -34,7 +36,5 @@ Books on NLP and LLMs
 - Research Paper reading
 
 
-<!-- Past years version of the course were based AI Foundation to Application in Computer Vision but this year version the focus is on Aplication in Natural Lnaguage Processing. However, the foundation from this course should give you the tools needed to read and understand materials and research on Computer Vision. 
-- [Foundations of Computer Vision by Phillip Isola and William T. Freeman](https://visionbook.mit.edu/)
-- [Deep Generative Modeling by Jakub M. Tomczak](https://www.amazon.com/Deep-Generative-Modeling-Jakub-Tomczak/dp/3030931609) -->
+
 
