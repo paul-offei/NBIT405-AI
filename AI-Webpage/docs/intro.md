@@ -4,10 +4,22 @@ sidebar_position: 1
 
 # Course Outline
 
-# NBIT 405: Artificial Intelligence (AI)
-- `` From AI Foundation to Large Language Models`` 
+# NBIT 405: Artificial Intelligence (AI) - `` From AI Foundation to Large Language Models`` 
+## A. AI Foundations
+0. Landscape of Hardwares, Softwares and Data Modalities for AI 
+- AI Accelerators 
+- AI Frameworks and Libraries
+- Multimodal Data
+1. Computational Linear Algebra and Differentiable Programming
+2. Foundational Probablility and Information Theory
+3. Fundamentals of Deep Neural Network
+- Backpropagation
+- CNN
+- RNN
 
-- #### Referrence Books on Mathematics and Satistics for Machine Learning and Deep Learning and NLP/LLMs
+## B. Large Languagee Models
+
+### Referrence Books on Mathematics and Satistics for Machine Learning and Deep Learning and NLP/LLMs
 
 Books on Calculus, Linear Alegebra, Probability and Statistics 
 - [ Mathematics for Machine Learning by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng
@@ -15,6 +27,7 @@ Soon Ong](https://www.cambridge.org/gh/universitypress/subjects/computer-science
 - [The Elements of Differentiable Programming by Mathieu Blondel and Vincent Roulet](https://arxiv.org/pdf/2403.14606?)
 - [Introduction to Probability for Data Science by Stanley Chan](https://probability4datascience.com/)
 - [Probability and Statistics for Data Science by Carlos Fernandez-Granda](https://www.ps4ds.net/)
+- [Information Theory for Data Science by Changho Suh](https://www.amazon.com/dp/1638281149?lv=shuf&channelId=500&plpRedirect=mhFallback)
 
 
 
