@@ -10,8 +10,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Welcome To NBIT405: Artificial Intelligence',
-  tagline: 'From AI Foundations to Large Language Models (LLMs).',
+  title: 'From AI Foundations to Large Language Models (LLMs).',
+  tagline: 'Welcome to the course!',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
