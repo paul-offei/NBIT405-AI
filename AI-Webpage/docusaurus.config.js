@@ -116,14 +116,14 @@ const config = {
             ],
           },
           {
-            title: 'Instructors',
+            title: 'Instructor',
             items: [
               {
                 label: 'PAUL OFFEI',
                 href: 'https://pauloffei.netlify.app',
               },
               {
-                label: 'Members of Technical Team @ TexkLab',
+                label: 'Member of Technical Team @ TexkLab',
                 href: 'https://texklab.org',
               },
             ],
