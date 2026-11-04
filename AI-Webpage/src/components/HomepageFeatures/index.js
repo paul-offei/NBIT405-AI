@@ -4,14 +4,22 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Backpropagation',
+    title: 'Paper Reading Assignment',
     Svg: require('@site/static/img/ai-1.svg').default,
     description: (
       <>
-         <p><a href="https://arxiv.org/pdf/2301.09977" target="_blank" rel="noopener noreferrer">The Backpropagation algorithm for a math student</a> </p>
+
+        <p><a href="https://arxiv.org/pdf/1102.1523" target="_blank" rel="noopener noreferrer">The NumPy array: a structure for efficient numerical computation</a> </p>
 
 
-         <p><a href="https://arxiv.org/pdf/2205.00832" target="_blank" rel="noopener noreferrer">Gradient Descent, Stochastic Optimization, and Other Tales</a> </p>
+        <p><a href="https://www.nature.com/articles/s41586-020-2649-2" target="_blank" rel="noopener noreferrer">Array programming with NumPy</a> </p>
+
+        <p><a href="https://arxiv.org/pdf/2301.09977" target="_blank" rel="noopener noreferrer">tegration and Evaluation of JAX framework on NeuralProcessing Units</a> </p>
+
+         <p><a href="https://dl.acm.org/doi/epdf/10.1145/3829216.3829301" target="_blank" rel="noopener noreferrer">The Backpropagation algorithm for a math student</a> </p>
+
+
+         {/* <p><a href="https://arxiv.org/pdf/2205.00832" target="_blank" rel="noopener noreferrer">Gradient Descent, Stochastic Optimization, and Other Tales</a> </p>
 
           <p><a href="https://ems.press/content/book-chapter-files/33333" target="_blank" rel="noopener noreferrer">Stochastic gradient descent: where optimization meets machine learning</a> </p>
 
@@ -19,7 +27,7 @@ const FeatureList = [
            <p><a href="https://www.mdpi.com/2227-7390/11/3/682" target="_blank" rel="noopener noreferrer">Recent Advances in Stochastic Gradient Descent in Deep Learning</a> </p>
 
 
-            <p><a href="https://www.pnas.org/doi/10.1073/pnas.2316301121" target="_blank" rel="noopener noreferrer">On the different regimes of stochastic gradient descent</a> </p>
+            <p><a href="https://www.pnas.org/doi/10.1073/pnas.2316301121" target="_blank" rel="noopener noreferrer">On the different regimes of stochastic gradient descent</a> </p> */}
       </>
 
     
