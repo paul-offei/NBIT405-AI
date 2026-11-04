@@ -4,7 +4,7 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Paper Reading Assignment',
+    title: 'Lecture 1: Paper Reading Assignment',
     Svg: require('@site/static/img/ai-1.svg').default,
     description: (
       <>
