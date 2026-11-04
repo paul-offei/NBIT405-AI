@@ -14,7 +14,7 @@ const FeatureList = [
 
         <p><a href="https://www.nature.com/articles/s41586-020-2649-2" target="_blank" rel="noopener noreferrer">Array programming with NumPy</a> </p>
 
-        <p><a href="https://arxiv.org/pdf/2301.09977" target="_blank" rel="noopener noreferrer">tegration and Evaluation of JAX framework on NeuralProcessing Units</a> </p>
+        <p><a href="https://arxiv.org/pdf/2301.09977" target="_blank" rel="noopener noreferrer">Integration and Evaluation of JAX framework on NeuralProcessing Units</a> </p>
 
          <p><a href="https://dl.acm.org/doi/epdf/10.1145/3829216.3829301" target="_blank" rel="noopener noreferrer">The Backpropagation algorithm for a math student</a> </p>
 
